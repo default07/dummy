@@ -47,7 +47,7 @@ app.get('/resource', function (req, res) {
 });
 
 server.listen(1881, 'localhost', function () {
-    console.info('WebServer is running http://localhost:1881');
+    console.info('WebServer is_ running http://localhost:1881');
 });
 
 process.on('uncaughtException', function (err) {
