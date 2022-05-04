@@ -1,0 +1,31 @@
+{
+    "version": "1.00",
+    "groups": [
+        {
+            "name": "Tanks",
+            "items": [
+                {
+                    "name": "pippo1",
+                    "path": ""
+                },
+                {
+                    "name": "pippo2",
+                    "path": ""
+                }
+            ]
+        },
+        {
+            "name": "Pops",
+            "items": [
+                {
+                    "name": "ciccio1",
+                    "path": "Pops/ciccio.svg"
+                },
+                {
+                    "name": "ciccio2",
+                    "path": ""
+                }
+            ]
+        }        
+    ]
+}

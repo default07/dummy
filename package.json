@@ -1,0 +1,18 @@
+{
+  "name": "www-server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "async": "^2.6.2",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "4.16.4",
+    "express-rate-limit": "^5.5.0",
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {}
+}
