@@ -46,7 +46,7 @@ app.get('/resource', function (req, res) {
     res.json(mymap);
 });
 
-server.listen(1881, 'localhost', function () {
+server.listen('localhost', function () {
     console.info('WebServer is_ running http://localhost:1881');
 });
 
